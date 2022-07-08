@@ -7,6 +7,7 @@
 //
 
 #import "MDTimeObject.h"
+#import "MDCNCategoryHelper.h"
 
 static NSString *defaultDateFormatter = @"yyyy-MM-dd HH:mm:ss";
 
