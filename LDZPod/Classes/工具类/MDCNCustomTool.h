@@ -18,7 +18,7 @@
 //#import "MDChineseSort.h"
 
 /** 日期和时间工具类 */
-#import "MDTimeObject.h"
+//#import "MDTimeObject.h"
 
 
 #endif /* MDCNCustomTool_h */
